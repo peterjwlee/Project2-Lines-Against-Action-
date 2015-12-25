@@ -1,0 +1,10 @@
+# AI playing against AI.
+java -ea loa.Main
+None
+===#1===
+auto black
+auto white
+seed 166
+start
+%bw
+%e
