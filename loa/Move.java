@@ -5,7 +5,7 @@ import static loa.Direction.*;
 import static loa.Piece.*;
 
 /** A move in Lines of Action.
- *  @author P. N. Hilfinger */
+ *  @author Peter Lee
 class Move {
 
     /* Implementation note: We create moves by means of static "factory
