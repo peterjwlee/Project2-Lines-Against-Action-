@@ -2,7 +2,7 @@ package loa;
 
 /** Utility for reporting informational or debugging messages conditionally,
  *  based on an adjustable parameter.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee
  */
 public class Reporter {
 
