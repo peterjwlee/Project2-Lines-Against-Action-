@@ -2,7 +2,7 @@ package loa;
 
 /** A Piece denotes the contents of a square, or identifies one side
  *  (Black or White) of a game.
- *  @author Paul Hilfinger
+ *  @author Peter Lee
  */
 enum Piece {
     /** The names of the pieces.  EMP indicates an empty square. The
