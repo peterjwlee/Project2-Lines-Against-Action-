@@ -10,7 +10,7 @@ import ucb.util.CommandArgs;
 import static loa.Piece.*;
 
 /** Main class of the Lines of Action program.
- * @author Paul Hilfinger
+ * @author Peter Lee
  */
 public class Main {
 
