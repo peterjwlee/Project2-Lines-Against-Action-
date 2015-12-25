@@ -1,7 +1,7 @@
 package loa;
 
 /** A direction of motion on a LOA board.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee
  */
 enum Direction {
 
